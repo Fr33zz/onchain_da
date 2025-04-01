@@ -1,2 +1,3 @@
 # onchain_da
-repo for onchain data analytics course
+репозиторий для курса по ончейну
+

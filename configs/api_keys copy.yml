@@ -1,0 +1,5 @@
+coingecko_key: ''
+coingecko_base_url : 'https://api.coingecko.com/api/v3/'
+coingecko_rate_limit: 30
+infura : ''
+infura_base_url : 'https://mainnet.infura.io/v3/'

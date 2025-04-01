@@ -1,0 +1,4 @@
+data/raw/
+lib/__pycache__/utils.cpython-313.pyc
+lib/__pycache__/__init__.cpython-313.pyc
+configs/api_keys.yml

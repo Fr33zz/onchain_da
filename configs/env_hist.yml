@@ -1,0 +1,18 @@
+name: oda
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12.0
+  - pip
+  - graphviz
+  - numpy
+  - matplotlib
+  - pandas
+  - web3
+  - pyyaml
+  - seaborn
+  - requests
+
+
+prefix: /home/smpt/miniconda3/envs/oda
